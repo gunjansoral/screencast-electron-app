@@ -1,9 +1,10 @@
 {
-  "name": "screencast-app",
+  "name": "screencast-electron-app",
   "version": "1.0.0",
   "description": "share your screen to anywhere in the world",
   "main": "index.js",
   "scripts": {
+    "start": "electron .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
